@@ -14,4 +14,4 @@ Clone the repository or download the source code.
 Open the index.html file in your preferred web browser.
 Usage
 To add a new expense, click on the "Add Expense" button and fill in the required fields in the form. Then click the "Add" button to save the expense.
-The total amount spent is displayed at the bottom of the expense list.
+The total amount spent is displayed at the top of the expense list.
